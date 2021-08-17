@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apps on My New Hugo Site Test</title>
+    <link>https://sapora-inc.github.io/apps/</link>
+    <description>Recent content in Apps on My New Hugo Site Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Sep 2020 17:27:59 +0700</lastBuildDate><atom:link href="https://sapora-inc.github.io/apps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lasso - Memo, Notes, Summary Journal minutes Diary</title>
+      <link>https://sapora-inc.github.io/apps/lasso/</link>
+      <pubDate>Thu, 03 Sep 2020 17:27:59 +0700</pubDate>
+      
+      <guid>https://sapora-inc.github.io/apps/lasso/</guid>
+      <description>Here&amp;rsquo;s an example blog post. edited completely oops</description>
+    </item>
+    
+    <item>
+      <title>Quotes- Inspirational quotes to start your day</title>
+      <link>https://sapora-inc.github.io/apps/quotes/</link>
+      <pubDate>Thu, 03 Sep 2020 17:27:59 +0700</pubDate>
+      
+      <guid>https://sapora-inc.github.io/apps/quotes/</guid>
+      <description>Here&amp;rsquo;s an example blog post. edited completely oops</description>
+    </item>
+    
+    <item>
+      <title>S Pdf Reader - Ad-free Pdf Viewer</title>
+      <link>https://sapora-inc.github.io/apps/s-pdf-reader/</link>
+      <pubDate>Thu, 03 Sep 2020 17:27:59 +0700</pubDate>
+      
+      <guid>https://sapora-inc.github.io/apps/s-pdf-reader/</guid>
+      <description>Here&amp;rsquo;s an example blog post. edited completely oops</description>
+    </item>
+    
+    <item>
+      <title>Sapora Tasks</title>
+      <link>https://sapora-inc.github.io/apps/sapora-tasks/</link>
+      <pubDate>Thu, 03 Sep 2020 17:27:59 +0700</pubDate>
+      
+      <guid>https://sapora-inc.github.io/apps/sapora-tasks/</guid>
+      <description>Here&amp;rsquo;s an example blog post. edited completely oops</description>
+    </item>
+    
+  </channel>
+</rss>

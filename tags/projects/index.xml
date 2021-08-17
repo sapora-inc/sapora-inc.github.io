@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on My New Hugo Site Test</title>
+    <link>https://sapora-inc.github.io/tags/projects/</link>
+    <description>Recent content in Projects on My New Hugo Site Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sapora-inc.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meals App</title>
+      <link>https://sapora-inc.github.io/sapora/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sapora-inc.github.io/sapora/</guid>
+      <description>While learning navigation in flutter, i created this app.</description>
+    </item>
+    
+  </channel>
+</rss>
